@@ -12,7 +12,7 @@
     {
       "name": "virtio-4.4.108.tgz",
       "url": "https://github.com/Cartman25/redpill-virtio/blob/master/releases/virtio-4.4.108.tgz",
-      "sha256": "2d7a1bec86a277ce9a6c64ab7b66783554740599655b77e6064fe46ef94144f4",
+      "sha256": "46bc4ca392f2e9538426579bb92ccd4b0178da8ec2151096d5490e503ac5445b",
       "packed": true
     }
   ],
